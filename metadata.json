@@ -1,0 +1,8 @@
+{
+  "name": "OpenNPlant",
+  "description": "An AI-powered plant analysis application providing accurate, scientific, and actionable insights about plant health, age, and species using the Gemini 3 API.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
